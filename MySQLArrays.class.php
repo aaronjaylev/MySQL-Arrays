@@ -3,6 +3,8 @@
 /**
  * MySQLArrays
  *
+ * Version: 2.0.0 - April 29. 2025
+ *
  * A modern PHP class for handling MySQL queries and results using PDO.
  *
  * This class simplifies MySQL interactions by allowing queries to be built with associative arrays,
